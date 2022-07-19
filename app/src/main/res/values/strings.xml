@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mobi360</string>
+
+    <!-- Item owner -->
+    <string name="owner">Nome e sobrenome</string>
+
+    <!-- Item car -->
+    <string name="nameCar">Nome do carro</string>
+    <string name="modelCar">Fabricante</string>
+    <string name="yearCar">Ano</string>
+    <string name="makeCar">Marca</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

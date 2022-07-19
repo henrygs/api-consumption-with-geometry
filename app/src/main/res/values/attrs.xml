@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CarCardView">
+
+        <attr name="textNameCar" format="string"/>
+        <attr name="textMoelCar" format="string"/>
+        <attr name="textMakeCar" format="string"/>
+        <attr name="textYearCar" format="string"/>
+
+    </declare-styleable>
+
+</resources>
